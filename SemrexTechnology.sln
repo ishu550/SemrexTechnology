@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemrexTechnology", "SemrexTechnology\SemrexTechnology.csproj", "{77206410-EF49-41D1-A211-790D78E2A86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77206410-EF49-41D1-A211-790D78E2A86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77206410-EF49-41D1-A211-790D78E2A86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77206410-EF49-41D1-A211-790D78E2A86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77206410-EF49-41D1-A211-790D78E2A86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D9667C-5883-499D-A051-D97B636AD52B}
+	EndGlobalSection
+EndGlobal
