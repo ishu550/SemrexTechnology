@@ -6,6 +6,8 @@ namespace SemrexTechnology.Controllers
     {
         public IActionResult Index()
         {
+
+            // This is test controller for SemrexTechnology project
             return View();
         }
     }
