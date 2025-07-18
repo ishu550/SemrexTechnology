@@ -2,11 +2,11 @@
 
 namespace SemrexTechnology.Controllers
 {
-    public class ContactUsController : Controller
+    public class AbautUsController : Controller
     {
         public IActionResult Index()
         {
-            // this code modifi 
+            //This Code is added  by Surya
 
             return View();
         }
